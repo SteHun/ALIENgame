@@ -1,0 +1,2 @@
+battle 3HunterAliens
+dialog 40

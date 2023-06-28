@@ -1,0 +1,12 @@
+dialog 43
+dialog 44
+dialog 45
+musicOff
+battle ALIEN
+dialog 48
+dialog 49
+dialog 50
+dialog 51
+dialog 52
+dialog 53
+win

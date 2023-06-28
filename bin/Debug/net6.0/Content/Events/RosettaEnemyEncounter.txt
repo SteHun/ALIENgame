@@ -1,0 +1,11 @@
+battle 2HunterAliens
+dialog 28
+dialog 29
+dialog 30
+dialog 31
+dialog 32
+dialog 33
+dialog 34
+dialog 35
+dialog 36
+playerNumber 3

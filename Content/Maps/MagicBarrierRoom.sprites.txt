@@ -1,0 +1,3 @@
+LoadingZone 0 2 1 3 FallenCapital 15 8
+MagicBarrier 4 1
+LoadingZone 6 2 1 3 SnowyPeaks 1 8

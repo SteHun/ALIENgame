@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/Colors/Black.png</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/Colors/Green.png</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/Colors/Red.png</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/Colors/Yellow.png</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/Enemies/ALIEN.png</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/Enemies/AlienGoat.png</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/Enemies/AlienServant.png</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/Enemies/HunterAlien.png</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/Enemies/ScripulousFingore.png</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/Enemies/WolfAlien.png</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/Fonts/DeterminationMono.spritefont</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/Fonts/DeterminationSans.spritefont</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/Maps/FallenCapital.png</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/Maps/GoldenGateRoom.png</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/Maps/Lair.png</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/Maps/MagicBarrierRoom.png</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/Maps/MoltenWoods.png</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/Maps/RockWallRoom.png</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/Maps/SnowyPeaks.png</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/Maps/Spaceship.png</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/Maps/TestMap.png</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/Music/Ambience.wav</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/Music/Battle.ogg</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/Music/Credits.mp3</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/Music/InTheFinal.mp3</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/Music/queen_car_radio.ogg</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/Music/Route216.mp3</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/Music/ShroobilanMischief.mp3</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/Music/Silence.wav</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/Music/ToadTownRuins.wav</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/Music/ToadwoodForest.wav</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/SFX/TextCrawl.wav</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/Sprites/GoldenGate.png</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/Sprites/GoldenKey.png</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/Sprites/MagicBarrier.png</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/Sprites/Player.png</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/Sprites/RockWall.png</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/Sprites/Rosetta.png</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/Sprites/Sign.png</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/Sprites/Steve.png</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/TestingAssets/WindowSizeTester.png</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/UIAssets/Credits.png</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/UIAssets/DialogBox.png</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/UIAssets/SelectionArrow.png</File>
+    <File>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/UIAssets/TitleScreen.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

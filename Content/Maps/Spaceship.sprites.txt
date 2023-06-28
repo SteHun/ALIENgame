@@ -1,0 +1,3 @@
+EventTrigger 8 7 1 1 Introduction IntroductionTriggerActivated
+LoadingZone 16 7 1 3 MoltenWoods 1 8
+RandomEncounter 2 6 1 1 1ScripulousFingore 1

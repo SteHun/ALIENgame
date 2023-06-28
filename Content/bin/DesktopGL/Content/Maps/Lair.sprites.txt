@@ -1,0 +1,2 @@
+LoadingZone 7 0 3 1 GoldenGateRoom 3 5
+EventTrigger 0 7 17 1 FinalBoss WonGame

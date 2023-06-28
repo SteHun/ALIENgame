@@ -1,0 +1,6 @@
+LoadingZone 7 0 3 1 RockWallRoom 3 5
+Rosetta 2 15
+EventTrigger 1 11 3 1 RosettaEnemyEncounter RosettaEnemyEncountered
+LoadingZone 16 7 1 3 MagicBarrierRoom 1 3
+LoadingZone 7 16 3 1 GoldenGateRoom 3 1
+RandomEncounter 1 1 15 15 2AlienServants 5

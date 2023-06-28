@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/Music/ToadwoodForest.wav</SourceFile>
+  <SourceTime>2023-06-28T13:45:05.6710658+02:00</SourceTime>
+  <DestFile>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/bin/DesktopGL/Content/Music/ToadwoodForest.xnb</DestFile>
+  <DestTime>2023-06-28T14:38:42.6122111+02:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2022-07-26T13:44:56+02:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2022-07-26T13:44:56+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>/home/stefan/Documenten/programming/c#/ALIENgameGOTY/ALIENgame/Content/bin/DesktopGL/Content/Music/ToadwoodForest.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

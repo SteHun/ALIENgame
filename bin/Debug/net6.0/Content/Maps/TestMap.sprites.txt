@@ -1,0 +1,5 @@
+LoadingZone 1 1 3 2 Spaceship 8 7
+NPC 5 2 0 Sign
+NPC 2 10 test Sign
+EventTrigger 2 5 2 2 test TestTriggerActivated
+RandomEncounter 4 1 1 1 2ScripulousFingores 100

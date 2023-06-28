@@ -1,0 +1,11 @@
+dialog 15
+battle 1HunterAlien
+dialog 16
+dialog 17
+dialog 18
+dialog 19
+dialog 20
+dialog 21
+dialog 22
+dialog 23
+playerNumber 2

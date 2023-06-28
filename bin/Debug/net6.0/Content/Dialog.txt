@@ -1,0 +1,53 @@
+﻿ERROR!&w&nThis is an invalid command!!!
+You saved the game!
+Gary, Steve and Rosetta have been traveling &naround the galaxy for quite some time. 
+Their main goal is to stop a plan &nto destroy earth, &wlead by A.L.I.E.N., &nthe leader of Zytux. 
+However, while travelling there, &w&nan alien ship suddenly rammed into them, &w&ndamaging the engine and making the ship crash. 
+&wYou are now on the planet Zytux.&w&nSteve and Rosetta have both been launched &nto somewhere on the planet. 
+&wGo save them and stop A.L.I.E.N.!
+&w(FYI: [Z] to interact, [X] to cancel&n&w[C] to open the menu&n&wand f11 to go full screen)
+&wEnemy appears!
+&wEnemies appear!
+&wEnemy has been defeated!
+&wEnemies have been defeated!
+GARY: &wI think I saw Steve being launched &naround here and Rosetta south.
+GARY: &wI don't think I'm strong enough &nto get through this&w.&w.&w.
+&wHunter Aliens attack you!
+&wHunter Aliens have been defeated!
+HUNTER ALIEN: &wHow could this happen? &w&nAvenge us, &wlord A.L.I.E.N.!
+STEVE: &wGary! &wI thought I would &nnever see you again man! &wThose guys kept &nme imprisoned here the entire time&w.&w.&w. 
+GARY: &wDon't worry Steve, &wI got you! &w&nIt's good to see you again. 
+GARY: &w&wBy the way, &w&ndo you know what happened to Rosetta? &w&nI think I saw her being launched south&w.&w.&w.
+STEVE: &wYeah, &wI did. &wI saw her land south of here. &w&nI think those aliens call that place&w.&w.&w. &w&nThe Fallen Capital?
+GARY: &wAlright, &wlet's go save her!
+&wSteve has joined the party! &w&nWith his strength, &w&nyou might be able to break certain things&w.&w.&w. 
+STEVE: &wThere we go! &w&nNow the path to The Fallen Capital is cleared! 
+GARY: &wRosetta should be around here somewhere&w.&w.&w.
+GARY: &wI don't think I can break this barrier&w.&w.&w.
+GARY: &wThe door doesn't seem to budge. &w&nI think I need a key to open it&w.&w.&w.
+HUNTER ALIEN: &wGrrrr&w.&w.&w.&w. &w&nYou will not make it past our lord A.L.I.E.N.!
+ROSETTA: &wGary! &wSteve! &w&nI'm so glad to see you both again!
+GARY: &wRosetta! &w&nIt's good to see that you're safe. 
+ROSETTA: &wI was held captive the entire time, &w&njust like Steve, &w&nbut luckily you guys saved me.
+GARY: &wNow that I think about it, &w&nI think there was a magic barrier &nto the east. 
+GARY: &wDo you think you might be able to &ndo something about it?
+ROSETTA: &wThat shouldn't be a problem for me! &w&nI know some of the best magic, &w&nso surely I can destroy a barrier like that.
+GARY: &wNice! &w&nLet's go then!
+&wRosetta has joined the party! &w&nWith her magic, &w&nyou might be able to break certain things&w.&w.&w.
+ROSETTA: &wAnd that's that! &w&nWe should be able to continue now.
+Follow this guide to get the Golden Key &nor be send back to the beginning&w.&w.&w.
+&wFrom before the 2 blocks: &w&n3R, &w6U, &w4R, &w8D, &w2L, &w2D.
+HUNTER ALIEN: &wTo think that people like you knew &nthere was something here in Snowy Peaks&w.&w.&w. &w&nI'm sure our lord A.L.I.E.N. will stop you!
+&wYou have found the Golden Key! &w&nWith it, &wyou should be able to &nopen the door at the Golden Gate&w.&w.&w.
+GARY: &wI feel an evil presence behind this door. &w&nIf we are ready, &wwe can go inside, &w&nbut I don't think we'll be able to turn back&w.&w.&w.
+A.L.I.E.N.: &wTravelers! &wI hear you are trying to &nput an end to my plan to take over earth&w.&w.&w. &w&nSadly, &wI can't allow that to happen!
+GARY: &wA.L.I.E.N.! &w&nWe will stop you, &wright now!
+A.L.I.E.N.: &wConfidence! &wI like it! &w&nWell then, &wcome at me, &w&nfools!
+&wA.L.I.E.N. attacks you!
+&wA.L.I.E.N. has been defeated!
+A.L.I.E.N.: &wWhat? &wNo! &w&nThis can't be! &w&nCurse you, &wtravelers!
+GARY: &wTake that! &w&nSteve, &wRosetta, &wwe did it! &w&nWe stopped A.L.I.E.N.!
+STEVE: &wLet's go! &w&nWe are the best!
+ROSETTA: &wGreat job everyone! &w&nWe saved earth!
+GARY: &wLet's go back home now that &neverything is over.
+&w&w&w&w&wThe end

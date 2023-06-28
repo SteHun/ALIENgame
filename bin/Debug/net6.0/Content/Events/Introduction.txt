@@ -1,0 +1,6 @@
+dialog 3
+dialog 4
+dialog 5
+dialog 6
+dialog 7
+dialog 8
